@@ -30,26 +30,7 @@ Help employees, managers, and organizations **stay healthy and productive in a r
 
 ---
 
-### 4. **Key Problems Solved**
-
-- Lack of visibility into remote team morale.
-- Risk of burnout due to blurred work-life boundaries.
-- Employees feeling unheard or unsupported.
-- Managers relying on gut feelings instead of real signals.
-
----
-
-### 5. **Value Propositions**
-
-- **Continuous Measurement**: Quick, low-friction surveys & activity logs.
-- **Personal Reflection**: Private dashboards for employees.
-- **Team Insights**: Aggregated, anonymized dashboards for managers.
-- **Actionable Recommendations**: AI-powered or rule-based suggestions for improvement.
-- **Scalable SaaS**: Multi-tenant, role-based, subscription-ready platform.
-
----
-
-### 6. **Core Features (MVP Scope)**
+### 4. **Core Features (MVP Scope)**
 
 #### For Employees
 
